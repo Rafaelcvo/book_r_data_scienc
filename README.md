@@ -1,1 +1,1 @@
-# book_r_data_scienc
+# Exercicios do livro R para Data Science
